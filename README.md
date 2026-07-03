@@ -1,1 +1,1 @@
-# Linguistic_Steganalysis
+# Linguistic Steganalysis: Hybrid Text Stego Detection
