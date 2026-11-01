@@ -24,7 +24,7 @@ The model was evaluated on the SeSy benchmark dataset across multiple datasets, 
 ## Architecture
 
 <p align="center">
-  <img src="architecture.png" alt="Model Architecture" width="800"/>
+  <img src="architecture.png" alt="Model Architecture" width="600"/>
 </p>
 
 *Overall architecture of the proposed linguistic steganalysis framework.*
