@@ -137,8 +137,7 @@ The ablation study demonstrates that integrating statistical features with Moder
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/HardiMatholia/Linguistic_Steganalysis.git
 ```
 
 ### 2. Change directory
